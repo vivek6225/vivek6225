@@ -14,15 +14,15 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="center">
-
- <a href="https://github.com/vivek6225">
+<p align="center">
+  <a href="https://github.com/vivek6225">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek6225&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a> | <a href="https://github.com/vivek6225?tab=repositories">
+  </a>
+  <a href="https://github.com/vivek6225?tab=repositories">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek6225&layout=compact&langs_count=8&theme=algolia"/>
-  </a> 
+  </a>
+</p>
 
-</div>
 
 
 
